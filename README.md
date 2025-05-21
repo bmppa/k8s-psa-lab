@@ -11,7 +11,7 @@ This lab will show you how to:
 ### 📁 **Folder structure**
 
 ```
-psa-lab/
+k8s-psa-lab/
 ├── namespace.yaml
 ├── privileged-pod.yaml
 └── restricted-pod.yaml
