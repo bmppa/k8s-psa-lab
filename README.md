@@ -8,6 +8,12 @@ This lab will show you how to:
 
 ---
 
+### 📁 **Requirments**
+
+A cluster running Kubernetes v1.25 or above.
+
+---
+
 ### 📁 **Folder structure**
 
 ```
